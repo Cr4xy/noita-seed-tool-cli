@@ -2,7 +2,8 @@
 ## Installation
 1. You need to install nodejs on your system
 2. Clone this repo
-3. Run `git submodule update –-remote`
+3. Run `git submodule init`
+4. Run `git submodule update –-remote`
 ## Usage
  - Enter the criteria you need on the website, and click 'Copy Link'.
  - Paste the copied URL behind the following command: `node cli/cli.js "<url>"`
