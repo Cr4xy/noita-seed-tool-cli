@@ -1,0 +1,3 @@
+[submodule "noita-seed-tool"]
+	path = noita-seed-tool
+	url = https://github.com/Cr4xy/noita-seed-tool
