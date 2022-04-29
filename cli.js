@@ -1,10 +1,10 @@
 // CLI for Noita Seed Tool (seed search only)
 // Usage: Enter the criteria you need on the website, and click 'Copy Link'.
 //        Then, paste the copied URL behind the following command:
-//        node cli/cli.js "<url>"
+//        node cli.js "<url>"
 //        Then, hit enter and the program will perform the search operation.
 // Example:
-//        node cli/cli.js "https://cr4xy.dev/noita/?seed=3&search=p-l1-pPERKS_LOTTERY%2Cp-l2-pSAVING_GRACE"
+//        node cli.js "https://cr4xy.dev/noita/?seed=3&search=p-l1-pPERKS_LOTTERY%2Cp-l2-pSAVING_GRACE"
 // Options:
 //        -t
 //            You can add -t to the command in order to use all your CPU cores.

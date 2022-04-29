@@ -6,7 +6,7 @@
 4. Run `git submodule update –-remote`
 ## Usage
  - Enter the criteria you need on the website, and click 'Copy Link'.
- - Paste the copied URL behind the following command: `node cli/cli.js "<url>"`
+ - Paste the copied URL behind the following command: `node cli.js "<url>"`
  - Hit enter and the program will perform the search operation.
  ## Options:
   - `-t`
